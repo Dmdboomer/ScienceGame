@@ -2,4 +2,19 @@ test
 .vscode
 .vscode/
 
+*.dat
+
+
+#C++ stuff
+*.o
+*.obj
+*
+!*.*
+!*.cpp
+!*.h
+!*.hpp
+!*.cc
+!*.cxx
+
+
 ElemParticles/gnuplot-iostream.h
